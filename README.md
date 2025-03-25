@@ -6,7 +6,7 @@ A lighting practice project in Unreal Engine 5.5
 
 Please follow these steps:
 
-1. **Delete the folder**: `Content\SaltFlats`
+1. **Download**: `Automotive Salt Flats` in another project 
 2. **Add the following missing files** to the project:
    - `Content/SaltFlats/Art/SaltFlats/Surface/T_Salt_BaseSurface_N.uasset`
    - `Content/SaltFlats/Art/SaltFlats/Surface/T_Salt_BaseSurface_ORMH.uasset`
