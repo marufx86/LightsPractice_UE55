@@ -74,3 +74,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+###github size limitation
+Content/SaltFlats/Art/SaltFlats/Surface/T_Salt_BaseSurface_N.uasset
+Content/SaltFlats/Art/SaltFlats/Surface/T_Salt_BaseSurface_ORMH.uasset
+Content/SaltFlats/Art/SaltFlats/Surface/T_Salt_Crack_ORMH.uasset
